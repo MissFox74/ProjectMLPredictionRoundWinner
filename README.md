@@ -12,8 +12,8 @@ Counter-Strike - одна из самых популярных киберспо�
 | Область | Показатель| Значение |
 | :--- | :---: | :--- |
 | Игры | Активные игроки| 1+ млн ежедневно |
-| Стриминг | Просмотры CS на Twitch | 100+ тыс ежедневно |
-| Образование | Спрос на Data Science специалистов | +150% за последние 3 года |
+| Стриминг | Просмотры CS на Twitch | 90+ тыс ежедневно |
+| Образование | Спрос на Data Science специалистов | +76% за 2024 |
 
 
 ## **🎯Цель**
@@ -71,3 +71,9 @@ Counter-Strike - одна из самых популярных киберспо�
   
 ## 🥽Dataset
 https://www.openml.org/search?type=data&sort=runs&id=43430&status=active  
+## 🔗Links
+https://steamcharts.com/app/730
+https://sullygnome.com/game/counter-strike_global_offensive
+https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/PCA.ipynb
+https://appleinsider.ru/tips-tricks/zarplata-analitika-dannyh-v-rossii-i-mire-mediana-160000-rub.html#vostrebovannost_analitikov_analiz_rynka_truda_i_kolichestvo_vakansij
+https://www.counter-strike.net/
