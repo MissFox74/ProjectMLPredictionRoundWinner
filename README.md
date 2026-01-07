@@ -49,7 +49,7 @@ Counter-Strike - одна из самых популярных киберспо�
 | :--- | :---: | :---: | :--- |
 | K-Nearest Neighbors | 0.845 | 0.848 | Результат после CV |
 | Random Forest | 0.852 | 0.853 | — |
-| Gradient Boosting | 0.739 | 0.741 | — |
+| Gradient Boosting | 0.798 | 0.799 | — |
 | Neural Network | 0.806 | 0.804 | EarlyStopping на 16/30 эпохе; optimizer - adam |
 
 ### 📒Выводы
