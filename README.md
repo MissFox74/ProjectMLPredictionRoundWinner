@@ -37,7 +37,7 @@ Counter-Strike - одна из самых популярных киберспо�
 ### 4.Обучение моделей
 - KNN с Cross-Validation
 - Random Forest с подором n_estimators
-- Gradient Boosting(базовая версия)
+- Gradient Boosting(catboost)
 - Neural network с EarlyStopping
 
 # 📈Результаты
